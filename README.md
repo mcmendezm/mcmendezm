@@ -21,6 +21,14 @@ readme_content = """
 <a href="https://niver-nieq.github.io/team-project/"><img src="https://niver-nieq.github.io/team-project/images/icecream.png" alt="IceCream Landing Page" width="600" /></a>
 
 
+<a href="https://niver-nieq.github.io/team-project/"><img src="https://niver-nieq.github.io/team-project/images/icecream.png" alt="IceCream Landing Page" width="600" /></a>
+
+
+<a href="https://niver-nieq.github.io/team-project/"><img src="https://niver-nieq.github.io/team-project/images/icecream.png" alt="IceCream Landing Page" width="600" /></a>
+
+
+<a href="https://niver-nieq.github.io/team-project/"><img src="https://niver-nieq.github.io/team-project/images/icecream.png" alt="IceCream Landing Page" width="600" /></a>
+
 
 </section>
 
