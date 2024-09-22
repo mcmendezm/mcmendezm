@@ -18,13 +18,9 @@ readme_content = """
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <section align="center">
 
-[![IceCream Landing Page](https://svg.bookmark.style/api?url=https://niver-nieq.github.io/team-project/&style=horizontal&mode=dark)](https://niver-nieq.github.io/team-project/)
+<a href="https://niver-nieq.github.io/team-project/"><img src="https://niver-nieq.github.io/team-project/images/icecream.png" alt="IceCream Landing Page" width="600" /></a>
 
-[![Fundación Antivirus](https://svg.bookmark.style/api?url=https://mcmendezm.github.io/FundacionAntivirus/&style=horizontal&mode=dark)](https://mcmendezm.github.io/FundacionAntivirus/)
 
-[![Shope Ecommerce](https://svg.bookmark.style/api?url=https://mcmendezm.github.io/E-commerce/&style=horizontal&mode=dark)](https://mcmendezm.github.io/E-commerce/)
-
-[![App Movies](https://svg.bookmark.style/api?url=https://mcmendezm.github.io/Movies/&style=horizontal&mode=dark)](https://mcmendezm.github.io/Movies/)
 
 </section>
 
