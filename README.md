@@ -10,7 +10,7 @@
 
 - 📫 Cómo contactarme: <a href="mailto:mcmendezmanotas@gmail.com">mcmendezmanotas@gmail.com</a>
 
-- 🔭 Actualmente trabajo en **desarrollo frontend en Inference, optimizando plataformas de ecommerce.**
+- 🔭 Actualmente trabajo en **desarrollo frontend en Inference, desarrollando plataformas web que integran IA generativa.**
 
 ## Previsualización de Proyectos
 <section align="center">
