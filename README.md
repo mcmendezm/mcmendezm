@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin: 20px;">
-      <h3 align="center">Página IceCream Landing</h3>
+      <h3 align="center">IceCream Landing</h3>
       <a href="https://niver-nieq.github.io/team-project/">
         <img src="./image/icecream.png" alt="Página IceCream Landing" width="300" />
       </a>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin-top: 20px;">
-      <h3 align="center">Shope Ecommerce</h3>
+      <h3 align="center">Shope (Ecommerce)</h3>
       <a href="https://mcmendezm.github.io/E-commerce/">
         <img src="./image/shope.png" alt="Shope" width="300" />
       </a>
