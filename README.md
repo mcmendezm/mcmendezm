@@ -1,10 +1,85 @@
-<h1 align="center">Hi 👋, I'm Maria Camila Mendez</h1>
-<h3 align="center">Frontend Developer from Colombia 🇨🇴</h3>
+# Generating the readMe.md content with the required structure
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mcmendezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcmendezm" height="30" width="40" /></a>
-</p>
+readme_content = """
+<h1 align="center"> Hi 👋, I'm Maria Camila Mendez </h1>
+<h2 align="center"> Frontend Developer </h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![](https://img.shields.io/badge/mcmendezm-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcmendezm)
+[![](https://img.shields.io/badge/mcmendezm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcmendezm/)
+
+- 🔬 I have 2 years of experience developing web applications, combining my technical and analytical skills to solve complex problems.
+
+- 💻 I enjoy designing and building web interfaces using technologies like HTML, CSS, JavaScript, React, and Next.js with a focus on user experience (UX/UI).
+
+- 📫 How to reach me: <a href="mailto:mcmendezmanotas@gmail.com">mcmendezmanotas@gmail.com</a>
+
+- 🔭 I’m currently working on **frontend development at Inference, optimizing ecommerce platforms.**
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+<section align="center">
+
+[![IceCream Landing Page](https://svg.bookmark.style/api?url=https://niver-nieq.github.io/team-project/&style=horizontal&mode=dark)](https://niver-nieq.github.io/team-project/)
+
+[![Fundación Antivirus](https://svg.bookmark.style/api?url=https://mcmendezm.github.io/FundacionAntivirus/&style=horizontal&mode=dark)](https://mcmendezm.github.io/FundacionAntivirus/)
+
+[![Shope Ecommerce](https://svg.bookmark.style/api?url=https://mcmendezm.github.io/E-commerce/&style=horizontal&mode=dark)](https://mcmendezm.github.io/E-commerce/)
+
+[![App Movies](https://svg.bookmark.style/api?url=https://mcmendezm.github.io/Movies/&style=horizontal&mode=dark)](https://mcmendezm.github.io/Movies/)
+
+</section>
+
+## Github Stats
+<section align="center">
+  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mcmendezm&theme=tokyonight&hide_border=false)
+
+</section>
+
+## Project Previews
+### 1. IceCream Landing Page  
+<a href="https://niver-nieq.github.io/team-project/"><img src="https://user-images.githubusercontent.com/70703371/121320996-ef0e7e80-c8c2-11eb-914d-31da7ba238c2.png" alt="IceCream Landing Page" width="600" /></a>  
+
+---
+
+### 2. Fundación Antivirus  
+<a href="https://mcmendezm.github.io/FundacionAntivirus/"><img src="https://user-images.githubusercontent.com/70703371/121321645-7f4c7f00-c8c3-11eb-8d0b-38092968d0ec.png" alt="Fundación Antivirus" width="600" /></a>  
+
+---
+
+### 3. Shope Ecommerce  
+<a href="https://mcmendezm.github.io/E-commerce/"><img src="https://user-images.githubusercontent.com/70703371/121321982-dc483500-c8c3-11eb-9304-f9b287d26c91.png" alt="Shope Ecommerce" width="600" /></a>  
+
+---
+
+### 4. App Movies  
+<a href="https://mcmendezm.github.io/Movies/"><img src="https://user-images.githubusercontent.com/70703371/121322328-377a2780-c8c4-11eb-8e4d-83b7a77e262f.png" alt="App Movies" width="600" /></a>  
+
+---
+
+## Tech Stack
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+"""
+
+# Write this to a readMe.md file
+with open('/mnt/data/readMe.md', 'w') as file:
+    file.write(readme_content)
+
+"/mnt/data/readMe.md"
