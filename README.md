@@ -1,21 +1,3 @@
-# Generating the readMe.md content with the required structure
-
-readme_content = """
-<h1 align="center"> Hi 👋, I'm Maria Camila Mendez </h1>
-<h2 align="center"> Frontend Developer </h2>
-
-[![](https://img.shields.io/badge/mcmendezm-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcmendezm)
-[![](https://img.shields.io/badge/mcmendezm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcmendezm/)
-
-- 🔬 I have 2 years of experience developing web applications, combining my technical and analytical skills to solve complex problems.
-
-- 💻 I enjoy designing and building web interfaces using technologies like HTML, CSS, JavaScript, React, and Next.js with a focus on user experience (UX/UI).
-
-- 📫 How to reach me: <a href="mailto:mcmendezmanotas@gmail.com">mcmendezmanotas@gmail.com</a>
-
-- 🔭 I’m currently working on **frontend development at Inference, optimizing ecommerce platforms.**
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <section align="center">
 
 <style>
@@ -59,33 +41,37 @@ readme_content = """
   }
 </style>
 
-<div class="grid-container">
+# Generating the readMe.md content with the required structure
 
-  <div class="grid-item">
-    <a href="https://niver-nieq.github.io/team-project/">
-      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/icecream.png" alt="IceCream Landing Page" />
-    </a>
-  </div>
+readme_content = """
+<h1 align="center"> Hi 👋, I'm Maria Camila Mendez </h1>
+<h2 align="center"> Frontend Developer </h2>
 
-  <div class="grid-item">
-    <a href="https://mcmendezm.github.io/FundacionAntivirus/">
-      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/antivirus.png" alt="Fundación Antivirus" />
-    </a>
-  </div>
+[![](https://img.shields.io/badge/mcmendezm-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcmendezm)
+[![](https://img.shields.io/badge/mcmendezm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcmendezm/)
 
-  <div class="grid-item">
-    <a href="https://mcmendezm.github.io/E-commerce/">
-      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/shope.png" alt="Shope" />
-    </a>
-  </div>
+- 🔬 I have 2 years of experience developing web applications, combining my technical and analytical skills to solve complex problems.
 
-  <div class="grid-item">
-    <a href="https://mcmendezm.github.io/Movies/">
-      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/appMovies.png" alt="Movies app" />
-    </a>
-  </div>
+- 💻 I enjoy designing and building web interfaces using technologies like HTML, CSS, JavaScript, React, and Next.js with a focus on user experience (UX/UI).
 
-</div>
+- 📫 How to reach me: <a href="mailto:mcmendezmanotas@gmail.com">mcmendezmanotas@gmail.com</a>
+
+- 🔭 I’m currently working on **frontend development at Inference, optimizing ecommerce platforms.**
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+<section align="center">
+
+<a href="https://niver-nieq.github.io/team-project/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/icecream.png" alt="IceCream Landing Page" width="600" /></a>
+
+
+<a href="https://mcmendezm.github.io/FundacionAntivirus/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/antivirus.png" alt="Fundación Antivirus" width="600" /></a>
+
+
+<a href="https://mcmendezm.github.io/E-commerce/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/shope.png" alt="Shope" width="600" /></a>
+
+
+<a href="https://mcmendezm.github.io/Movies/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/appMovies.png" alt="Movies app" width="600" /></a>
+
 
 </section>
 
