@@ -18,17 +18,74 @@ readme_content = """
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <section align="center">
 
-<a href="https://niver-nieq.github.io/team-project/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/icecream.png" alt="IceCream Landing Page" width="600" /></a>
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    justify-items: center;
+    margin: 20px 0;
+  }
 
+  .grid-item {
+    position: relative;
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid #ddd;
+  }
 
-<a href="https://mcmendezm.github.io/FundacionAntivirus/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/antivirus.png" alt="Fundación Antivirus" width="600" /></a>
+  .grid-item img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
 
+  .grid-item:hover img {
+    transform: scale(1.05);
+  }
 
-<a href="https://mcmendezm.github.io/E-commerce/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/shope.png" alt="Shope" width="600" /></a>
+  .grid-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.2));
+    z-index: 1;
+  }
+</style>
 
+<div class="grid-container">
 
-<a href="https://mcmendezm.github.io/Movies/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/appMovies.png" alt="Movies app" width="600" /></a>
+  <div class="grid-item">
+    <a href="https://niver-nieq.github.io/team-project/">
+      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/icecream.png" alt="IceCream Landing Page" />
+    </a>
+  </div>
 
+  <div class="grid-item">
+    <a href="https://mcmendezm.github.io/FundacionAntivirus/">
+      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/antivirus.png" alt="Fundación Antivirus" />
+    </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="https://mcmendezm.github.io/E-commerce/">
+      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/shope.png" alt="Shope" />
+    </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="https://mcmendezm.github.io/Movies/">
+      <img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/appMovies.png" alt="Movies app" />
+    </a>
+  </div>
+
+</div>
 
 </section>
 
