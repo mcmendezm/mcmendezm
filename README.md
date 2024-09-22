@@ -20,11 +20,13 @@
 <table>
   <tr>
     <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin: 20px;">
+      <h3 align="center">IceCream Landing Page</h3>
       <a href="https://niver-nieq.github.io/team-project/">
         <img src="./image/icecream.png" alt="IceCream Landing Page" width="300" />
       </a>
     </td>
     <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin-left: 20px;">
+      <h3 align="center">Fundación Antivirus</h3>
       <a href="https://mcmendezm.github.io/FundacionAntivirus/">
         <img src="./image/antivirus.png" alt="Fundación Antivirus" width="300" />
       </a>
@@ -32,11 +34,13 @@
   </tr>
   <tr>
     <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin-top: 20px;">
+      <h3 align="center">Shope Ecommerce</h3>
       <a href="https://mcmendezm.github.io/E-commerce/">
         <img src="./image/shope.png" alt="Shope" width="300" />
       </a>
     </td>
     <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin: 20px;">
+      <h3 align="center">Movies App</h3>
       <a href="https://mcmendezm.github.io/Movies/">
         <img src="./image/appMovies.png" alt="Movies app" width="300" />
       </a>
