@@ -17,19 +17,35 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <section align="center">
 
-<a href="https://niver-nieq.github.io/team-project/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/icecream.png" alt="IceCream Landing Page" width="600" /></a>
-
-
-<a href="https://mcmendezm.github.io/FundacionAntivirus/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/antivirus.png" alt="Fundación Antivirus" width="600" /></a>
-
-
-<a href="https://mcmendezm.github.io/E-commerce/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/shope.png" alt="Shope" width="600" /></a>
-
-
-<a href="https://mcmendezm.github.io/Movies/"><img src="https://github.com/mcmendezm/mcmendezm/blob/main/image/appMovies.png" alt="Movies app" width="600" /></a>
-
+<table>
+  <tr>
+    <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin: 20px;">
+      <a href="https://niver-nieq.github.io/team-project/">
+        <img src="./image/icecream.png" alt="IceCream Landing Page" width="300" />
+      </a>
+    </td>
+    <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin-left: 20px;">
+      <a href="https://mcmendezm.github.io/FundacionAntivirus/">
+        <img src="./image/antivirus.png" alt="Fundación Antivirus" width="300" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin-top: 20px;">
+      <a href="https://mcmendezm.github.io/E-commerce/">
+        <img src="./image/shope.png" alt="Shope" width="300" />
+      </a>
+    </td>
+    <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin: 20px;">
+      <a href="https://mcmendezm.github.io/Movies/">
+        <img src="./image/appMovies.png" alt="Movies app" width="300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </section>
+
 
 ## Github Stats
 <section align="center">
