@@ -1,6 +1,5 @@
 # Generating the readMe.md content with the required structure
 
-readme_content = """
 <h1 align="center"> Hi 👋, I'm Maria Camila Mendez </h1>
 <h2 align="center"> Frontend Developer </h2>
 
