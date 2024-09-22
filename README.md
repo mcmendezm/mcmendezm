@@ -15,7 +15,7 @@
 ## Previsualización de Proyectos
 <section align="center">
 
-<table>
+<table align="center">
   <tr>
     <td style="background-color: #f3f3f3; padding: 20px; border-radius: 10px; margin: 20px;">
       <h3 align="center">Página IceCream Landing</h3>
