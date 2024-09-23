@@ -78,3 +78,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+<section align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmendezm&hide_progress=true)
+
+</section>
