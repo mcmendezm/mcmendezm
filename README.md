@@ -8,7 +8,7 @@
 
 - 💻 Disfruto diseñar y construir interfaces web utilizando tecnologías como HTML, CSS, JavaScript, React y Next.js, con un enfoque en la experiencia de usuario (UX/UI).
 
-- 📫 Cómo contactarme: <a href="mailto:mcmendezmanotas@gmail.com">mcmendezmanotas@gmail.com</a>
+- 📫 Cómo contactarme: <a href="mailto:mcmendezmanotas@gmail.com">mcmendezmanotas@gmail.com</a> | [Portafolio](https://mcmendezm.github.io/camilamendez/)
 
 - 🔭 Actualmente trabajo en **desarrollo frontend en Inference, desarrollando plataformas web que integran IA generativa.**
 
@@ -47,7 +47,6 @@
 </table>
 
 </section>
-
 
 ## Estadísticas de GitHub
 <section align="center">
